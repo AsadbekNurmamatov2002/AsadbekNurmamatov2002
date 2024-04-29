@@ -1,11 +1,11 @@
 # Asadbek Nurmamatov
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/AsadbekNurmamatov2002/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/hejazizo)]([https://twitter.com/hejazizo](https://twitter.com/Asadbek20020107)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hejazizo/](https://www.linkedin.com/in/nurmamatov-asadbek-ab3305292/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/hejazizo)](https://twitter.com/Asadbek20020107)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nurmamatov-asadbek-ab3305292/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.linkedin.com/in/nurmamatov-asadbek-ab3305292/_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](nurmamatovasadbek85@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)]([https://pytopia.ai](https://github.com/AsadbekNurmamatov2002/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://github.com/AsadbekNurmamatov2002/)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)]([https://github.com/hejazizo](https://github.com/AsadbekNurmamatov2002/)
 
 - 📫 How to reach me: nurmamatovasadbek85@gmail.com
