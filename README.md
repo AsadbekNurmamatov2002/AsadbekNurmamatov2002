@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.linkedin.com/in/nurmamatov-asadbek-ab3305292/_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](nurmamatovasadbek85@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://github.com/AsadbekNurmamatov2002/)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)]([https://github.com/hejazizo](https://github.com/AsadbekNurmamatov2002/)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/AsadbekNurmamatov2002/)
 
 - 📫 How to reach me: nurmamatovasadbek85@gmail.com
 
